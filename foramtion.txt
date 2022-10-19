@@ -1,0 +1,6 @@
+1/git status // bech nchouf chfama jdid 
+2/ git add . // nzid les fichier el kol ou
+git add nom fichier // nzid fichier 
+3/ git commit -m "commentaire chaemlt" 
+
+4/ git status // new up dates
