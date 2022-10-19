@@ -4,3 +4,11 @@ git add nom fichier // nzid fichier
 3/ git commit -m "commentaire chaemlt" 
 
 4/ git status // new up dates
+ 
+///////////////// 
+git stash clear  : nestaemalha 9bal manaemal commit 
+baed manaemal commit : 
+get log  : tafachi l id tae el commit 
+git reset id commit : bech tafasa5 el el commit 
+
+
