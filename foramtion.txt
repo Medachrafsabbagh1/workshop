@@ -1,0 +1,17 @@
+1/git status // bech nchouf chfama jdid 
+2/ git add . // nzid les fichier el kol ou
+git add nom fichier // nzid fichier 
+3/ git commit -m "commentaire chaemlt" 
+
+4/ git status // new up dates
+ 
+///////////////// 
+git stash clear  : nestaemalha 9bal manaemal commit 
+baed manaemal commit : 
+get log  : tafachi l id tae el commit 
+git reset id commit : bech tafasa5 el el commit 
+git bracnch : bech nchouf les braches eli andi 
+git branch name-brach  : bech nzid branche 
+git checkout name branch : changer le branche 
+
+
